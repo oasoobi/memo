@@ -2,4 +2,8 @@
 
 ただのブックマークレット置き場。
 
-javascript:{let x=document.createElement("script");x.src="https://raw.githubusercontent.com/oasoobi/bookmark-scripts/refs/heads/main/kahoot.js";document.body.appendChild(x)}
+[javascript:(function() {
+  var script = document.createElement('script');
+  script.src = 'https://raw.githubusercontent.com/oasoobi/bookmark-scripts/refs/heads/main/kahoot.js';
+  document.body.appendChild(script);
+})();]
