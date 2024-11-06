@@ -4,6 +4,6 @@
 
 javascript:(function() {
   var script = document.createElement('script');
-  script.src = 'https://oasoobi.net/scripts/kahoot.js';
+  script.src = 'https://oasoobi.net/scripts/k.js';
   document.body.appendChild(script);
 })
