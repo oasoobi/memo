@@ -1,4 +1,5 @@
 
+alert("loaded!");
   // すでにオーバーレイがあるかチェック
   if (document.getElementById('bookmarkletOverlay')) {
     return; // 既に存在している場合は何もしない
