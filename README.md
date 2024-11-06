@@ -4,6 +4,6 @@
 
 [javascript:(function() {
   var script = document.createElement('script');
-  script.src = 'https://raw.githubusercontent.com/oasoobi/bookmark-scripts/refs/heads/main/kahoot.js';
+  script.src = 'https://oasoobi.net/scripts/kahoot.js';
   document.body.appendChild(script);
 })();]
