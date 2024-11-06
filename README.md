@@ -9,6 +9,10 @@
 videoIDが表示されるので閉じます。
 あとは見たらわかるので説明しません。
 
-```
-javascript:(function() {var script = document.createElement('script');script.src = 'https://oasoobi.net/scripts/k.js';document.body.appendChild(script);})
+```javascript
+javascript:(function() {
+  var script = document.createElement('script');
+  script.src = 'https://oasoobi.net/scripts/k.js';
+  document.body.appendChild(script);
+})
 ```
