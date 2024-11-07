@@ -6,7 +6,9 @@
 ## youtube everywhere
 
 使うとurlを入力してくださいと出るので動画のurlを入れます。
+
 videoIDが表示されるので閉じます。
+
 あとは見たらわかるので説明しません。
 
 ```javascript
