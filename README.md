@@ -18,3 +18,12 @@ javascript:(function() {
   document.body.appendChild(script);
 })
 ```
+
+# browser games
+
+[QuickDraw](https://quickdraw.withgoogle.com/#)
+
+[TurboWarp](https://mirror.turbowarp.xyz)
+補足：scratchのゲームを遊ぶ
+
+[MineSweeper](https://oasoobi.net/games/minesweeper)
