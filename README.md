@@ -1,10 +1,9 @@
-# ただのメモです
 
 # bookmark-scripts
 
 ただのブックマークレット置き場。
 
-## youtube everywhere
+## youtube 
 
 ```javascript
 javascript:(function() {
